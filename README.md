@@ -11,6 +11,8 @@ God, help me, please.
 ## Main Aim
 Chill, Joy, Relax. We all know that creating alone such global and holywar things is very complex. So main aim is relax by coding, and nothing else.
 
+## S.A.Q (seldomly asked questions)
+
 ### what is .u format ? 
 
 u stands for universal. Yet another one Human-readable format. It will be my own format of files with kinda-new(ha-ha) semantic. Is is like child class that inherits parent basics from xml json and md.
