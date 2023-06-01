@@ -1,12 +1,17 @@
 # Emerald
 
+---
+
+***John(15:5) Apart from Me you can do nothing.***
+
+---
 
 ## Idea
 The idea of project is to create Obsidian-like note system (second-brain) by erasing border between .html and .md formats.
 In other words, I want to create my notes that look great both in txt editor and modern web browser.
 The idea is as classic as world being. There are thousand solutions over it, but I want to create my own. 
 
-God, help me, please.
+God, help me.
 
 ## Main Aim
 Chill, Joy, Relax. We all know that creating alone such global and holywar things is very complex. So main aim is relax by coding, and nothing else.
