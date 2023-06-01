@@ -3,6 +3,7 @@ HELP.md
 .jar
 .bat
 gradlew
+gradlew.bat
 gradle/
 build/
 gradle/wrapper/gradle-wrapper.jar
